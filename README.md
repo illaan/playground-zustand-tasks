@@ -4,6 +4,9 @@
 
 **Zustand Tasks** is a simple application created as a learning project for understanding the principles of Zustand state management in React. _Zustand Tasks_ enable you to efficiently categorize tasks according to their status. This straightforward organization method helps you stay in control of your daily responsibilities.
 
+**Screenshots**
+![Screenshot of my app](./src/assets/screenshots/app.png "Screenshot of My App")
+
 ## Table of Contents
 
 - [Features](#features)
